@@ -1,4 +1,4 @@
-package by.epam.training.api.model.post.user;
+package by.epam.training.api.model.user;
 
 import java.util.HashMap;
 import java.util.Map;

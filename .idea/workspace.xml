@@ -4,14 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96b7966e-cb24-42e2-98cd-99188c98a5c6" name="Changes" comment="" />
+    <list default="true" id="96b7966e-cb24-42e2-98cd-99188c98a5c6" name="Changes" comment="11/12 api">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/by/epam/training/api/RestAssuredDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/by/epam/training/api/RestAssuredDemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/by/epam/training/api/model/user/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/by/epam/training/api/model/user/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/by/epam/training/api/model/user/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/by/epam/training/api/model/user/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/by/epam/training/api/model/user/Geo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/by/epam/training/api/model/user/Geo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/by/epam/training/api/model/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/by/epam/training/api/model/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IlPmzYhiPwuWtJQexWzWGB5ETA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,9 +42,86 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.C:/data/projects/api/api-testing/src/test/resources/testng.xml">
+    <configuration name="C:/data/projects/api/api-testing/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="api-testing" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestAssuredDemoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="api-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.training.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.epam.training.api" />
+      <option name="MAIN_CLASS_NAME" value="by.epam.training.api.RestAssuredDemoTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestAssuredDemoTest.checkResponseBody" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="api-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.training.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.epam.training.api" />
+      <option name="MAIN_CLASS_NAME" value="by.epam.training.api.RestAssuredDemoTest" />
+      <option name="METHOD_NAME" value="checkResponseBody" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestAssuredDemoTest.checkResponseUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="api-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.training.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.epam.training.api" />
+      <option name="MAIN_CLASS_NAME" value="by.epam.training.api.RestAssuredDemoTest" />
+      <option name="METHOD_NAME" value="checkResponseUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/data/projects/api/api-testing/src/test/resources/testng.xml" />
+        <item itemvalue="TestNG.RestAssuredDemoTest" />
+        <item itemvalue="TestNG.RestAssuredDemoTest.checkResponseUser" />
+        <item itemvalue="TestNG.RestAssuredDemoTest.checkResponseBody" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,5 +132,20 @@
       <updated>1670753361388</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11/12 api" />
+    <option name="LAST_COMMIT_MESSAGE" value="11/12 api" />
   </component>
 </project>
